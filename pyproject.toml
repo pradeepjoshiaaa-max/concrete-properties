@@ -53,7 +53,7 @@ Changelog = "https://github.com/robbievanleeuwen/concrete-properties/releases"
 [dependency-groups]
 dev = [
     "ipympl==0.10.0",
-    "notebook==7.6.0",
+    "notebook==7.6.3",
     "sphinx-autobuild==2025.8.25",
 ]
 docs = [
@@ -62,7 +62,7 @@ docs = [
     "ipykernel==7.3.0",
     "ipython==9.15.0",
     "nbsphinx==0.9.8",
-    "nbconvert==7.17.1",
+    "nbconvert==7.17.2",
     "sphinx-copybutton==0.5.2",
     "sphinxext-opengraph==0.13.0",
 ]
